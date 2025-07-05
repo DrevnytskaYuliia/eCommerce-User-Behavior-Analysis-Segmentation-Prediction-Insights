@@ -1,7 +1,3 @@
-![status](https://img.shields.io/badge/status-active-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-blue)
-
-
 # eCommerce User Behavior Analysis
 
 This project analyzes user behavioral data from a multi-category online store (Kaggle Open CDP dataset). It combines data cleaning, feature engineering, exploratory data analysis (EDA), clustering, classification, and regression to extract insights about customer behavior.
