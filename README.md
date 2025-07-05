@@ -6,7 +6,7 @@
 
 This project analyzes user behavioral data from a multi-category online store (Kaggle Open CDP dataset). It combines data cleaning, feature engineering, exploratory data analysis (EDA), clustering, classification, and regression to extract insights about customer behavior.
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: [![Kaggle Dataset](https://img.shields.io/badge/dataset-Kaggle-blue)](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
 - **Size**: 4 million+ events
